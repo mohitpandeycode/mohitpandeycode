@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Mohit Pandey — a Django developer crafting scalable web solutions!<br>🔹 💻 Skilled in Django, Python, JavaScript, and web development.<br>🔹 🚀 Passionate about building efficient backends, clean UIs, and great user experiences.<br>🔹 📫 Let’s connect! Reach me at https://mohitpandeydev.vercel.app/
+# 👋 Hi, I’m Mohit Pandey
+💎A Django developer crafting scalable web solutions!<br>🔹 💻 Skilled in Django, Python, JavaScript, and web development.<br>🔹 🚀 Passionate about building efficient backends, clean UIs, and great user experiences.<br>🔹 📫 Let’s connect! Reach me at https://mohitpandeydev.vercel.app/
 
 
 ## 🌐 Socials:
